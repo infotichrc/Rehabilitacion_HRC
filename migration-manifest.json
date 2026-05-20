@@ -1,0 +1,167 @@
+{
+  "source_zip": "rehabilitacion.zip",
+  "source_domain": "https://rehabilitacion.hospitalcopiapo.cl",
+  "generated_posts": [
+    {
+      "id": 1,
+      "title": "Ejercicios para Rodilla, Tobillo y Pie.",
+      "slug": "rodilla",
+      "categories": [
+        "Pierna (Extremidad Inferior)"
+      ]
+    },
+    {
+      "id": 99,
+      "title": "Ejercicios para aliviar el dolor de cuello, cervical o cervicalgia",
+      "slug": "ejercicios-para-aliviar-el-dolor-de-cuello-cervical-o-cervicalgia",
+      "categories": [
+        "Espalda",
+        "Cabeza"
+      ]
+    },
+    {
+      "id": 105,
+      "title": "Ejercicios para aliviar el dolor de espalda, lumbago,  o lumbalgia",
+      "slug": "ejercicios-para-aliviar-el-dolor-de-espalda-lumbago-o-lumbalgia",
+      "categories": [
+        "Espalda"
+      ]
+    },
+    {
+      "id": 187,
+      "title": "Ejercicios de hombro para recuperar la movilidad  tras un periodo de inmovilización .",
+      "slug": "ejercicios-de-hombro-para-recuperar-la-movilidad-tras-un-periodo-de-inmovilizacion",
+      "categories": [
+        "Brazo (Extremidad superior)"
+      ]
+    },
+    {
+      "id": 191,
+      "title": "Artrosis de cadera",
+      "slug": "artrosis-de-cadera",
+      "categories": [
+        "Cadera"
+      ]
+    },
+    {
+      "id": 199,
+      "title": "Parálisis facial",
+      "slug": "paralisis-facial",
+      "categories": [
+        "Cabeza"
+      ]
+    },
+    {
+      "id": 205,
+      "title": "Ejercicios de codo",
+      "slug": "ejercicios-de-codo",
+      "categories": [
+        "Brazo (Extremidad superior)"
+      ]
+    },
+    {
+      "id": 212,
+      "title": "Ejercicios de estimulación para bebés de 0-3 meses",
+      "slug": "ejercicios-de-estimulacion-para-bebes-de-0-3-meses",
+      "categories": [
+        "Estimulacion para Niños"
+      ]
+    },
+    {
+      "id": 218,
+      "title": "Ejercicios de estimulación para bebés de 3-6 meses",
+      "slug": "ejercicios-de-estimulacion-para-bebes-de-3-6-meses",
+      "categories": [
+        "Estimulacion para Niños"
+      ]
+    },
+    {
+      "id": 279,
+      "title": "Ejercicios de acondicionamiento físico",
+      "slug": "ejercicios-de-acondicionamiento-fisico",
+      "categories": [
+        "Acondicionamiento Físico"
+      ]
+    },
+    {
+      "id": 306,
+      "title": "Ejercicios de piso pelvico",
+      "slug": "ejercicios-de-piso-pelvico",
+      "categories": [
+        "Piso Pelvico"
+      ]
+    },
+    {
+      "id": 317,
+      "title": "Ejercicios Post Covid-19",
+      "slug": "ejercicios-post-covid-19",
+      "categories": [
+        "Covid-19"
+      ]
+    },
+    {
+      "id": 340,
+      "title": "Estimulación para el gateo",
+      "slug": "estimulacion-para-el-gateo",
+      "categories": [
+        "Estimulacion para Niños"
+      ]
+    },
+    {
+      "id": 357,
+      "title": "Muñeca y Mano",
+      "slug": "muneca-y-mano",
+      "categories": [
+        "Brazo (Extremidad superior)"
+      ]
+    }
+  ],
+  "generated_categories": [
+    {
+      "slug": "cabeza",
+      "name": "Cabeza",
+      "count": 2
+    },
+    {
+      "slug": "espalda",
+      "name": "Espalda",
+      "count": 2
+    },
+    {
+      "slug": "cadera",
+      "name": "Cadera",
+      "count": 1
+    },
+    {
+      "slug": "brazo-extremidad-supperior",
+      "name": "Brazo (Extremidad superior)",
+      "count": 3
+    },
+    {
+      "slug": "pierna-extremidad-inferior",
+      "name": "Pierna (Extremidad Inferior)",
+      "count": 1
+    },
+    {
+      "slug": "acondicionamiento-fisico",
+      "name": "Acondicionamiento Físico",
+      "count": 1
+    },
+    {
+      "slug": "ejercicios-post-covid-19",
+      "name": "Covid-19",
+      "count": 1
+    },
+    {
+      "slug": "estimulacion-para-ninos",
+      "name": "Estimulacion para Niños",
+      "count": 3
+    },
+    {
+      "slug": "piso-pelvico",
+      "name": "Piso Pelvico",
+      "count": 1
+    }
+  ],
+  "removed": "WordPress core, PHP, cPanel, database, users, backups, plugins, themes not required for static site."
+}
